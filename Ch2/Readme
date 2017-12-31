@@ -1,0 +1,26 @@
+This folder contains codes for chapter 2
+2. Basics of Image Processing	
+2.1 What is an Image?	
+2.2 Access and Understand Pixels	
+2.2.1 A Pixel and its Friendly Neighbours	
+2.3 Image Classification	
+2.3.1 BGR Image (Colour)	
+2.3.2 Gray Scale Image	19
+2.3.3 Binary Image (Black & White)	
+2.4 Why BGR color space is used in OpenCV ?	
+2.5 Why people Convert Colour images to Gray?	
+Goal: To create and display a black image	
+2.6	Pixel Values of BGR colour images	
+Goal: To create a black, white and blue images	
+2.7 Read an image	
+2.7.1	Display an image	
+Goal: Program to read an image and display an image	
+2.7.2	Save an image	
+Goal: Program to save an image when a key ‘s’  is pressed	
+2.8 Resize an image	
+Goal: Program to resize an image	
+2.9	Basic Image Operations	
+Goal: Program to convert an image into gray and RGBA images	
+Goal: To split an Image into RGB and HSV channels	
+Goal:  Program to blur, dilate, erode an image	
+Goal:  To scale an image into half, stretch, rotate	
