@@ -1,0 +1,12 @@
+This contains codes and files of chapter 3
+3. Getting Started with Video Processing	
+3.1 What is a Video?	
+3.2 Why we need Video Processing?	
+3.3 Playing a video	
+Goal: To play a video from a file	
+3.4 Reading and displaying the video using webcam	
+Goal: Program to read and display the video from Webcam	
+3.5 Saving the camera video	
+Goal: Program to save the camera video	
+3.6 Interacting with Videos	
+Goal:  Program to display webcam video and draw a circle on a mouse click	
