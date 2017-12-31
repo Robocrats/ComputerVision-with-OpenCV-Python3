@@ -1,1 +1,7 @@
-This contains
+This contains files and codes for Chapter 5
+5. Face Detection	
+5.1 Haarcascading	
+5.2 Detecting a face in an image	
+Goal:  Program to detect a Face	
+Goal: To detect Eyes in image	
+Goal: Program to detect Face and Eyes in a image	
