@@ -1,0 +1,16 @@
+This contains code, files of Chapter 4
+4. Object Detection	
+4.1 What is Image Segmentation?	
+4.2 Why binary images are useful?	
+4.3 What is Thresholding?	
+4.4 Fixed thresholding	
+4.5 Adaptive thresholding	
+Goal: Program to show threshold, binary	
+Goal: Program to show basic binary, adaptive threshold	
+4.6 Contours	
+Goal: Program to draw contours	
+4.7 Canny edge detection	
+Goal: Program to detect edges using Canny filter	
+Goal:  Program to measure area and perimeter of contours	
+4.8 Skin Detection	
+Goal:  Program for skin detection
